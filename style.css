@@ -1,0 +1,14 @@
+.jett{
+    height: 100vh;
+}
+.jett{
+    color: aqua;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10%;
+    padding-top: 40px;
+    padding-right: 10%;
+}
