@@ -1,28 +1,32 @@
 *{
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
     font-family: 'Kumbh Sans', sans-serif;
 }
-.jett{
-    height: 100vh;
-    background-color: azure;
+.container{
     color: red;
     border-width: 1px;
     font-size: 25px;
+    width: 100%
 }
 nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding-left: 3%;
-    padding-top: 5px;
+    padding-top: 25px;
     padding-right: 2%;
+    width: 100%;
 }
 li{
     list-style: none;
     display: inline;
     padding: 10px 28px;
     font-size: 25px;
+    width: 100%;
 }
 li a{
     text-decoration: none;
 }
+
