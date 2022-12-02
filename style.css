@@ -30,3 +30,13 @@ li a{
     text-decoration: none;
 }
 
+.valpicture{
+    width: 200px;
+    height: 230px;
+    display: inline;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    margin: 10px 15px;
+  
+}
+
