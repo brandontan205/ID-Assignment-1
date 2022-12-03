@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    background-color: aqua;
 }
 img{
     max-width: 100%;
@@ -13,8 +14,8 @@ img{
     padding-left: 600px;
 }
 #twit{
-    margin-top: 75px;
+    margin-top: 100px;
 }
 #yt{
-    margin-top: 75px;
+    margin-top: 100px;
 }
