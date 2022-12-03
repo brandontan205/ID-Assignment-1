@@ -2,3 +2,12 @@
     margin: 0;
     padding: 0;
 }
+.toppart{
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    margin-top: 100px;
+}
+form{
+    padding-top: 34px
+}
