@@ -24,3 +24,12 @@ img{
 #yt{
     margin-top: 100px;
 }
+.social{
+    justify-content: center;
+    display: flex;
+    padding-top: 20px;
+}
+.contact{
+    justify-content: center;
+    display: flex;
+}
