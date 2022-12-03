@@ -23,7 +23,7 @@ body{
    padding-bottom: 50px;
    width: 50%;
    margin: auto;
-   font-size: 35px;
+   font-size: 20px;
 }  
 form{
     display: flex;
@@ -32,4 +32,8 @@ form{
     align-items: center;
     justify-content: center;
 }
+input[type=text]{
+    box-sizing: border-box;
+    padding: 16px;
 
+}
