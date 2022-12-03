@@ -34,11 +34,15 @@ img{
     display: flex;
 }
 .val{
+    margin-top: 15px;
     font-size: 22px;
 }
 .valtwit{
-    font-size: 13px;
+    font-size: 15px;
+    margin-top: 15px;
+    margin-right: 15px;
 }
 .valyt{
+    margin-top: 15px;
     font-size: 22px;
 }
