@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    background-color: wheat;
+    background-color: antiquewhite;
     font-family: 'Dosis', sans-serif;
     font-family: 'Kanit', sans-serif;
     font-family: 'Roboto Condensed', sans-serif;
@@ -14,6 +14,7 @@ img{
     height: auto;
 }
 .cover{
+    width: 100%;
     justify-content: center;
     display: block;
     margin-left: 10px;
@@ -42,7 +43,7 @@ img{
 .contact{
     justify-content: center;
     display: flex;
-    color: red
+    color: red;
 }
 .val{
     margin-top: 15px;
@@ -62,4 +63,5 @@ img{
     margin-left: 740px;
     font-size: 25px;
     color: red;
+    width: 40%;
 }
