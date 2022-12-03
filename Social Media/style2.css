@@ -2,6 +2,11 @@
     margin: 0;
     padding: 0;
     background-color: wheat;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 img{
     max-width: 100%;
