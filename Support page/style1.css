@@ -20,7 +20,8 @@ body{
     padding-top: 25px;
     padding-bottom: 25px;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 40px;
+    margin-bottom: 25px;
     border-style: solid;
     border-radius: 20px;
     border-color: pink;
@@ -28,7 +29,7 @@ body{
 #supportquestion{
    color: white;
    background-color: rgb(93, 41, 136);
-   padding-top: 50px;
+   padding-top: 60px;
    padding-bottom: 50px;
    width: 50%;
    margin: auto;
