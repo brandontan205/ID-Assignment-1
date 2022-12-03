@@ -14,7 +14,7 @@ body{
     padding-top: 25px;
     padding-bottom: 25px;
     margin: auto;
-    margin-top: 25px;
+    margin-top: 10px;
 }
 #supportquestion{
    color: white;
@@ -24,11 +24,12 @@ body{
    width: 50%;
    margin: auto;
    font-size: 35px;
-}   
+}  
 form{
     display: flex;
-    padding-top: 180px;
+    padding-top: 50px;
     text-align: center;
     align-items: center;
     justify-content: center;
 }
+
