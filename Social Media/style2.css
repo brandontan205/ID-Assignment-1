@@ -13,13 +13,14 @@ img{
     max-width: 100%;
     height: auto;
 }
-.class{}
 .cover{
     justify-content: center;
     display: block;
     margin-left: 10px;
     margin-top: 70px;
+    margin-bottom: 70px;
     padding-left: 900px;
+    color: purple;
 }
 #inst{
     border-radius: 25px;
@@ -36,10 +37,12 @@ img{
     justify-content: center;
     display: flex;
     padding-top: 20px;
+    color: red;
 }
 .contact{
     justify-content: center;
     display: flex;
+    color: red
 }
 .val{
     margin-top: 15px;
@@ -58,4 +61,5 @@ img{
     margin-top: 70px;
     margin-left: 740px;
     font-size: 25px;
+    color: red;
 }
