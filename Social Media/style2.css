@@ -7,15 +7,18 @@
     font-family: 'Roboto Condensed', sans-serif;
     font-family: 'Roboto Slab', serif;
     font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
 }
 img{
     max-width: 100%;
     height: auto;
 }
+.class{}
 .cover{
     justify-content: center;
     display: block;
-    margin-top: 100px;
+    margin-left: 10px;
+    margin-top: 70px;
     padding-left: 900px;
 }
 #inst{
@@ -50,4 +53,9 @@ img{
 .valyt{
     margin-top: 15px;
     font-size: 22px;
+}
+.email{
+    margin-top: 70px;
+    margin-left: 740px;
+    font-size: 25px;
 }
