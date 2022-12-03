@@ -6,8 +6,18 @@
     text-align: center;
     width: 100%;
     margin: auto;
-    margin-top: 100px;
+    margin-top: 75px;
 }
+#supportquestion{
+   width: 90%;
+   margin: auto;
+   font-size: 20px;
+}   
 form{
-    padding-top: 34px
+    display: flex;
+    padding-top: 180px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
 }
