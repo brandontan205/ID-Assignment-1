@@ -37,14 +37,18 @@ li a{
     text-decoration: none;
 }
 
-.valpicture{
-    color: aqua;
-    width: 100px;
-    height: 100px;
+.container2{
+    display: flex;
+    height: 500px;
+    width: 500px;
+    padding-left: 40px;
+    justify-content: space-between;
+    background-color: aqua;
     position: absolute;
     align-items: center;
-    top: 50%;
-    left: 47%;
+    margin-right: 500px;
+    top: 33%;
+    left: 40%;
     margin: -50px -50px;        
   
 }
@@ -75,4 +79,7 @@ li a{
     margin-bottom: 70px;
     padding-left: 10px;
 }
-
+.bigboy{
+    font-size: 80px;
+    background-color: aqua;
+}
