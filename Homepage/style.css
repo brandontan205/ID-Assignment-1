@@ -20,8 +20,10 @@ nav{
     align-items: center;
     justify-content: space-between;
     padding-left: 3%;
-    padding-top: 25px;
+    padding-top: 0px;
+    padding-bottom: 20px;
     padding-right: 2%;
+    height: 175px;
     width: 100%;
 }
 li{
@@ -36,6 +38,7 @@ li a{
 }
 
 .valpicture{
+    color: aqua;
     width: 200px;
     height: 230px;
     display: inline;
@@ -67,7 +70,7 @@ li a{
 
 .logo{
     margin-left: 10px;
-    margin-top: 70px;
+    margin-top: 90px;
     margin-bottom: 70px;
     padding-left: 10px;
 }
