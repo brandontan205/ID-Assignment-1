@@ -4,6 +4,11 @@
     box-sizing: border-box;
     font-family: 'Kumbh Sans', sans-serif;
 }
+body{
+    background-image: url("../pictures/wallpaper.webp");
+    background-repeat: no-repeat;
+}
+
 .container{
     color: red;
     border-width: 1px;
