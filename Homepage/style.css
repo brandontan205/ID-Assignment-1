@@ -98,4 +98,25 @@ li a{
     font-size: 80px;
     background-color: aqua;
 }
+.lore{
+    position: absolute;
+    top: 1500px;
+    background-color: red;
+}
+
+#lorepic{
+    position: absolute;
+    bottom: 40px;
+    display: block;
+    right: 1200px;
+}
+
+.lorepara{
+    font-size: 20px;
+    left: 800px;
+    padding-left: 800px;
+    padding-bottom: 200px;
+    color: antiquewhite;
+}
+
 
