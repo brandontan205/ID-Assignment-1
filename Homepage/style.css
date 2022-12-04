@@ -39,6 +39,7 @@ li a{
 
 .container2{
     display: flex;
+    border-radius: 18px;
     height: 400px;
     width: 600px;
     padding-left: 40px;
@@ -81,8 +82,12 @@ li a{
     margin-bottom: 70px;
     padding-left: 10px;
 }
+.wordingbefore{
+    padding-left: 130px;
+    font-size: 30px;
+}
 .bigboy{
-    padding-left: 50px;
+    padding-left: 40px;
     font-size: 80px;
     background-color: aqua;
 }
