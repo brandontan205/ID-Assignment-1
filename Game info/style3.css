@@ -31,7 +31,16 @@ body{
 .title1{
     position: absolute;
     padding-left: 450px;
-
+}
+.title2{
+    position: absolute;
+    left: 1340px;
+    top: 270px;
+}
+.title3{
+    position: absolute;
+    left: 450px;
+    top: 570px;
 }
 #agent{
     position: absolute;
