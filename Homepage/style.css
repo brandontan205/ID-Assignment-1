@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+body{
+    background-image: url("../pictures/wallpaper.webp");
+    background-repeat: no-repeat;
+}
+
+.container{
+    color: red;
+    border-width: 1px;
+    font-size: 25px;
+    width: 100%
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 3%;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    padding-right: 2%;
+    height: 175px;
+    width: 100%;
+}
+li{
+    background-color: rgb(15, 214, 214);
+    border-radius: 18px;
+    list-style: none;
+    display: inline;
+    padding: 10px 28px;
+    font-size: 25px;
+    width: 100%;
+}
+li a{
+    text-decoration: none;
+}
+
+.container2{
+    display: flex;
+    border-radius: 18px;
+    height: 400px;
+    width: 600px;
+    padding-left: 40px;
+    justify-content: space-between;
+    background-color: aqua;
+    position: absolute;
+    align-items: center;
+    margin-right: 500px;
+    top: 33%;
+    left: 38%;
+    margin: -50px -50px;        
+  
+}
+.downloadbutton{
+    position:absolute;
+    left: 200px;
+    bottom: 60px;
+    background-color: rgb(4, 43, 70);
+    color: white;
+    border-color: red;
+    border-style: solid;
+    border-width: 4px;
+    width: 200px;
+    height: 70px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 25px;
+    transition: background-color 0.6s;
+}
+
+.downloadbutton:hover{
+    background-color: white;
+    color: rgb(4, 43, 70);
+    opacity: 0.8;
+}
+
+.logo{
+    margin-left: 10px;
+    margin-top: 90px;
+    margin-bottom: 70px;
+    padding-left: 10px;
+}
+.wordingbefore{
+    padding-left: 130px;
+    font-size: 30px;
+}
+.bigboy{
+    padding-left: 62px;
+    font-size: 80px;
+    background-color: aqua;
+}
+.lore{
+    position: absolute;
+    top: 1500px;
+    background-color: red;
+}
+
+#lorepic{
+    position: absolute;
+    bottom: 40px;
+    display: block;
+    right: 1200px;
+}
+
+.lorepara{
+    font-size: 20px;
+    left: 800px;
+    padding-left: 800px;
+    padding-bottom: 200px;
+    color: antiquewhite;
+}
+
+

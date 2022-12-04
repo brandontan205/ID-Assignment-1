@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("../pictures/valorantback.png");
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.toppart{
+    color: red;
+    background-color: white;
+    text-align: center;
+    width: 40%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 25px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: pink;
+}
+#supportquestion{
+   color: white;
+   background-color: rgb(93, 41, 136);
+   padding-top: 60px;
+   padding-bottom: 50px;
+   width: 50%;
+   margin: auto;
+   font-size: 20px;
+   border-style: solid;
+   border-radius: 20px;
+   border-color: pink;
+}  
+form{
+    display: flex;
+    padding-top: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+input[type=text]{
+    box-sizing: border-box;
+    padding: 16px;
+}
+#submitbutton{
+    background-color: rgb(93, 41, 136);
+    color: white;
+    border-color: black;
+    border-style: solid;
+    border-width: 4px;
+    width: 200px;
+    height: 70px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 25px;
+    transition: background-color 0.6s;
+    cursor: pointer;
+}
+#submitbutton:hover{
+    background-color: white;
+    color: rgb(4, 43, 70);
+    opacity: 0.8;
+}

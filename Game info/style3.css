@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;  
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+.ranks{
+    margin-top: 20px;
+}
+#rank{
+    border-radius: 18px;
+    position: aboslute;
+    margin-left: 200px;
+    padding-top: 30px;    
+}
+.rankword{
+    position:absolute;
+    top: 120px;
+    left: 950px;
+    font-size: 25px;
+    text-align: center;
+}
+.title1{
+    position: absolute;
+    padding-left: 450px;
+}
+.title2{
+    position: absolute;
+    left: 1340px;
+    top: 270px;
+}
+.title3{
+    position: absolute;
+    left: 450px;
+    top: 570px;
+}
+#agent{
+    position: absolute;
+    bottom: 350px;
+    left: 1100px;
+    border-radius: 18px;
+    border-style: solid;
+    border-color: red;
+}
+.agentword{
+    position: absolute;
+    font-size: 25px;
+    top: 470px;
+    left: 150px;
+}
+#map{
+    position: absolute;
+    top: 600px;
+    left: 150px;
+    padding-left: 50px;
+    border-radius: 18px;
+    border-style: solid;
+    border-color: red;
+}
+.mapword{
+    position: absolute;
+    display: inline;
+    top: 759px;
+    left: 1000px;
+    font-size: 25px;
+}
