@@ -3,12 +3,17 @@
     padding: 0;  
 }
 .rankword{
-    position:relative;
+    position:absolute;
+    top: 200px;
     left: 1200px;
-    bottom: 200px;
     font-size: 18px;
 }
 #agent{
-    position: relative;
+    position: absolute;
     left: 1200px;
+}
+.agentword{
+    font-size: 18px;
+    bottom: 200px;
+
 }
