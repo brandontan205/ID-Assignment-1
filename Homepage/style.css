@@ -39,8 +39,8 @@ li a{
 
 .container2{
     display: flex;
-    height: 500px;
-    width: 500px;
+    height: 400px;
+    width: 600px;
     padding-left: 40px;
     justify-content: space-between;
     background-color: aqua;
@@ -48,12 +48,14 @@ li a{
     align-items: center;
     margin-right: 500px;
     top: 33%;
-    left: 40%;
+    left: 38%;
     margin: -50px -50px;        
   
 }
-
 .downloadbutton{
+    position:absolute;
+    left: 200px;
+    bottom: 60px;
     background-color: rgb(4, 43, 70);
     color: white;
     border-color: red;
@@ -80,6 +82,8 @@ li a{
     padding-left: 10px;
 }
 .bigboy{
+    padding-left: 50px;
     font-size: 80px;
     background-color: aqua;
 }
+
